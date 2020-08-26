@@ -1,6 +1,6 @@
 .khan__buy-link{
   margin-left: 48px;
-  align-self: stretch;
+  align-self: flex-start;
 
   font-size: 30px;
   font-weight: normal;

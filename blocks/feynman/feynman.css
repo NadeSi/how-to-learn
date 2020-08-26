@@ -4,7 +4,7 @@
   background-size: 867px 637px;
   background-repeat: no-repeat;
   background-position: left bottom;
-  height: 790px;
+  min-height: 790px;
   display: block;
   position: relative;
   margin: 0;
