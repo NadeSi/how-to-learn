@@ -1,0 +1,6 @@
+.footer {
+  min-height: 350px;
+  background-color: var(--dark-grey-color);
+  color: var(--white-color);
+  display: flex;
+}

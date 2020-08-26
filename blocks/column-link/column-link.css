@@ -1,0 +1,10 @@
+.column-link {
+  margin: 0;
+  display: flex;
+  align-content: flex-start;
+  text-decoration: none;
+  color: var(--white-color);
+  line-height: 30px;
+  font-weight: normal;
+  font-size: 18px;
+}
